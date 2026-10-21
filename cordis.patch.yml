@@ -1,0 +1,4 @@
+# dsh-completion-chime bundle patch.
+- insert:
+    - id: completion-chime
+      name: dsh-completion-chime
